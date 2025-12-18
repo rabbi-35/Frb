@@ -1,0 +1,3 @@
+export const DISCORD_TOKEN = "PASTE_DISCORD_BOT_TOKEN";
+export const DISCORD_CHANNEL_ID = "PASTE_CHANNEL_ID";
+export const WHATSAPP_NUMBER = "8801761554035@s.whatsapp.net";
